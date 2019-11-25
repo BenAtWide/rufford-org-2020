@@ -261,6 +261,8 @@ Session.vim
 # Auto-generated tag files
 tags
 
+# Local DB
+*.sqlite3
 
 ### Project template
 
@@ -277,3 +279,4 @@ jenson8_cloudvr/media/
 
 # Auth files
 extra/
+
