@@ -53,6 +53,7 @@ coverage.xml
 # Django stuff:
 staticfiles/
 
+
 # Sphinx documentation
 docs/_build/
 
@@ -277,6 +278,6 @@ rufford_org/media/
 .envs/*
 !.envs/.local/
 
-# Auth files
-extra/
-
+# Extra stuff
+# docker legacy mysql data dir (see local.yml)
+mysqldata 
